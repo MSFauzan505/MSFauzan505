@@ -2,12 +2,7 @@
 # 👋 Hi, I'm Fauzan!
 💻 **Frontend Developer | Student | Lifelong Learner**
 
-<p align="center">
-  <img src="https://media.tenor.com/images/7262ad4e5a48fc.gif" width="300" alt="Bocchi Animation" />
-</p>
-
-
-
+[![]([https://tenor.com/id/view/ikuyo-kita-bocchi-the-rock-kit-aura-kitan-anime-girl-gif-7153074617466034813](https://tenor.com/iGzjV7n1ROz.gif))](https://tenor.com/iGzjV7n1ROz.gif)
 ---
 
 ## 🌱 Currently Learning
