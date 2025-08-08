@@ -1,8 +1,7 @@
-# 💫 About Me:
 # 👋 Hi, I'm Fauzan!
 💻 **Frontend Developer | Student | Lifelong Learner**
 
-[![]([https://tenor.com/id/view/ikuyo-kita-bocchi-the-rock-kit-aura-kitan-anime-girl-gif-7153074617466034813](https://tenor.com/iGzjV7n1ROz.gif))](https://tenor.com/iGzjV7n1ROz.gif)
+![](https://media1.tenor.com/m/Y0TTd0ntGn0AAAAC/ikuyo-kita-bocchi-the-rock.gif)
 ---
 
 ## 🌱 Currently Learning
