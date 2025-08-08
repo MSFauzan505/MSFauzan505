@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Fauzan!
 💻 **Frontend Developer | Student | Lifelong Learner**
 
-<p align="center">
+<p>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZ3cjk4ajZnZTd6cGgwNG54aDdoY2FrbDN2MGRla2lubTdjdGVwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ojrn5O4i6k8ETYss3G/giphy.gif" width="400" />
 </p>
 
