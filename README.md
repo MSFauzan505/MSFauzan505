@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Fauzan!
 💻 **Frontend Developer | Student | Lifelong Learner**
 
-![]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZ3cjk4ajZnZTd6cGgwNG54aDdoY2FrbDN2MGRla2lubTdjdGVwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ojrn5O4i6k8ETYss3G/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTA1MjR0ejB3eXhpa2NsYmRpbXEzaXFkdm93b3JyZHptaXBmZTBhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/APtU49mKAYDW2kuiOB/giphy.gif))
+![](https://tenor.com/id/view/ikuyo-kita-bocchi-the-rock-kit-aura-kitan-anime-girl-gif-7153074617466034813)
 
 
 ---
