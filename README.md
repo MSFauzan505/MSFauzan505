@@ -4,6 +4,9 @@
 ![](https://media1.tenor.com/m/Y0TTd0ntGn0AAAAC/ikuyo-kita-bocchi-the-rock.gif)
 ---
 
+## 📖 Project is being worked on
+- I am currently developing a react js e-commerce website with typescript
+
 ## 🌱 Currently Learning
 - JavaScript (Deep dive into ES6+)
 - ReactJS (Building interactive UIs)
